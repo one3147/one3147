@@ -6,4 +6,5 @@
 
 I am System Hacker.
   
- <p><a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=dwj0306">    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dwj0306"/></a></p>
+ <p><a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=dwj0306">
+ <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dwj0306"/></a></p>
