@@ -9,11 +9,17 @@ I am System Hacker.
 ### 🔹Skills🔹
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=yellow&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=yellow&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=yellow&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali Linux-FCC624?style=yellow&logo=Kali linux&logoColor=white">
 
 
+<h1>
+
+### 🔹Tool🔹
+  
+<img src="https://img.shields.io/badge/Kali Linux-FCC624?style=yellow&logo=Kali linux&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=yellow&logo=linux&logoColor=white">
+  
 <h1>
 
 <p><a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=dwj0306">
