@@ -6,7 +6,6 @@
 I am System Hacker.
   
 Although I am still a beginner, 
-
 I will continue to grow.
 <h1>
 
