@@ -10,4 +10,4 @@ I am System Hacker.
  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dwj0306"/></a></p>
 
 
-![dwj0306's github stats](https://github-readme-stats.vercel.app/api?username=dwj0306&show_icons=true)
+![one3147's github stats](https://github-readme-stats.vercel.app/api?username=one3147&show_icons=true)
