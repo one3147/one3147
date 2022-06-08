@@ -10,7 +10,6 @@ I am System Hacker.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=yellow&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=yellow&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali Linux-FCC624?style=yellow&logo=Kali linux&logoColor=white">
 
 
 <h1>
@@ -19,6 +18,7 @@ I am System Hacker.
   
 <img src="https://img.shields.io/badge/Kali Linux-FCC624?style=yellow&logo=Kali linux&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=yellow&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/VMware-607078?style=yellow&logo=VMware&logoColor=white">
   
 <h1>
 
