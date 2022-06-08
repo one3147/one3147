@@ -8,7 +8,7 @@ I am System Hacker.
 
 ### 🔹Skills🔹
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=yellow&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=yellow&logo=C&logoColor=white"/>
 
 
