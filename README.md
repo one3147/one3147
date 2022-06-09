@@ -28,6 +28,5 @@ I will continue to grow.**
 <h1>
   
 ![one3147's github stats](https://github-readme-stats.vercel.app/api?username=one3147&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=one3147&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p><a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=dwj0306">
-<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dwj0306"/></a></p>
+
 
