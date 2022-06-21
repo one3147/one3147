@@ -13,6 +13,8 @@ I will continue to grow.**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=yellow&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=yellow&logo=C&logoColor=white"/>
+  
+C Language , Python
 
 
 <h1>
@@ -23,6 +25,7 @@ I will continue to grow.**
 <img src="https://img.shields.io/badge/Linux-FCC624?style=yellow&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/VMware-607078?style=yellow&logo=VMware&logoColor=white">
   
+Kali Linux / Linux ( Ubuntu ) / VMware
 <h1>
 
 <h1>
