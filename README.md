@@ -16,7 +16,7 @@ C Language , Python , PHP
 
 ### 🔹Tool🔹
   
-<img src="https://cdn.imgbin.com/0/12/15/imgbin-laptop-security-hacker-computer-icons-computer-security-laptop-Z1nyJUE2yqP3i46XfMZ6hsLjj.jpg" style="width:50px;height:50px;"><br>
+<img src="[https://cdn.imgbin.com/0/12/15/imgbin-laptop-security-hacker-computer-icons-computer-security-laptop-Z1nyJUE2yqP3i46XfMZ6hsLjj.jpg](https://cdn-icons-png.flaticon.com/512/6463/6463383.png)" style="width:50px;height:50px;"><br>
 Kali Linux | Ubuntu | BurpSuite | Ghidra | Hextedit
 <h1>
 
