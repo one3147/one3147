@@ -19,8 +19,10 @@ C Language , Python , PHP
 <img src="https://img.shields.io/badge/Kali Linux-FCC624?style=yellow&logo=Kali linux&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=yellow&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/VMware-607078?style=yellow&logo=VMware&logoColor=white">
+<img src="https://img.shields.io/badge/Pycharm-#000000?style=for-the-badge&logo=Pycharm&logoColor=white">
+
   
-Kali Linux / Linux ( Ubuntu ) / VMware , C Lion , Pycharm , Burp Suite, VSC
+Kali Linux | Ubuntu | BurpSuite | Ghidra | Hextedit
 <h1>
 
 <h1>
