@@ -15,6 +15,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" style="width:30px;height:30px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" style="width:30px;height:30px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png" style="width:30px;height:30px;">
+<img src="https://play-lh.googleusercontent.com/BHJZ6QhVjVpLRbEZK3fA5bUusXaYIn5VuyAWJc2g-O1bmKXWv-2GIh6o03MlHAfoLA" style="width:30px;height:30px;">
 <br><br>
   
 ![one3147's github stats](https://github-readme-stats.vercel.app/api?username=one3147&show_icons=true)
