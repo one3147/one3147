@@ -16,7 +16,7 @@ C Language , Python , PHP
 
 ### 🔹Tool🔹
   
-<img src="https://cdn-icons-png.flaticon.com/512/564/564672.png">
+<img src="https://cdn-icons-png.flaticon.com/512/564/564672.png" style="width:100px;height:100px;">
 Kali Linux | Ubuntu | BurpSuite | Ghidra | Hextedit
 <h1>
 
