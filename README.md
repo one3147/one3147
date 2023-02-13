@@ -17,8 +17,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png" style="width:30px;height:30px;">
 <br><br>
   
-![one3147's github stats](https://github-readme-stats.vercel.app/api?username=one3147&show_icons=true)
-<p><a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=dwj0306">
-<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dwj0306"/></a></p>
-
 </div>
