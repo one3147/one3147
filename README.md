@@ -15,7 +15,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" style="width:30px;height:30px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" style="width:30px;height:30px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png" style="width:30px;height:30px;">
-<img src="hhttps://cdn-icons-png.flaticon.com/512/5968/5968282.png" style="width:30px;height:30px;">
 <br><br>
   
 </div>
