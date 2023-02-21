@@ -21,5 +21,5 @@
 <h1>
 ### 📘 Blog 📘
 
-<button type="button" onclick="location.href='https://one3147.tistory.com/' ">Blog</button>
+[Blog](https://one3147.tistory.com/)
 </div>
