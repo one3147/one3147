@@ -23,5 +23,5 @@
   
 ### 📘 Blog 📘
 
-[Blog](https://one3147.tistory.com/)
+[📚](https://one3147.tistory.com/)
 </div>
