@@ -16,7 +16,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" style="width:30px;height:30px;">
 <img src="https://blog.kakaocdn.net/dn/bOPiXJ/btqGexEvwIf/bX94Ory4VsKTVSmfEeeQj0/img.png" style="width:30px;height:30px;">
   
-<br><br>
+<br>
   
 <h1>
   
