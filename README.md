@@ -1,9 +1,4 @@
 <div align="center">
-
-### Hi, I'm Wonjune 👋
-  
-<h1>
-
 <img src="https://cdn-icons-png.flaticon.com/512/1320/1320457.png" style="width:50px;height:50px;">
   
 ### 🔹Skills && Tools🔹
