@@ -3,7 +3,7 @@
 
 ## Portfolio - CTF & Contest
 **2023 CCE Finalist** <br>
-**2023 CodeGate Youth department** 26th
+**2023 CodeGate Youth department** 26th <br>
 **2023 Local Skills Competition - Cyber Security 1st**
 <br><br>
 
