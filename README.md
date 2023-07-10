@@ -1,9 +1,10 @@
 <div align="center">
 <img src="https://blog.kakaocdn.net/dn/cgkUIV/btqRqcabOMh/iSwGFjqyYk5pidLEb8K641/img.png" style="width:100px;height:100px;">
 
-## Portfolio - CTF
+## Portfolio - CTF & Contest
 **2023 CCE Finalist** <br>
 **2023 CodeGate Youth department** 26th
+**2023 Local Skills Competition - Cyber Security 1st**
 <br><br>
 
 ## Portfolio - BugBounty
