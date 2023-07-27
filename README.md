@@ -8,9 +8,8 @@
 <br><br>
 
 ## Portfolio - BugBounty
+**Dreamhack Vulnerablity discovery (CVSS : 5.3 , Medium)**<br>
 **Dreamhack Vulnerablity discovery (CVSS : 5.3 , Medium)**
-**Dreamhack Vulnerablity discovery (CVSS : 5.3 , Medium)**
-
 <br><br>
 
 ## Portfolio - Projects
