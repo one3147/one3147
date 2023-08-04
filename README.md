@@ -3,12 +3,14 @@
 
 ## Portfolio - CTF & Contest
 **2023 CCE Finalist 7th** <br>
-**2023 CodeGate Youth department** 26th <br>
-**2023 Local Skills Competition - Cyber Security 1st**
+**2023 CodeGate Youth department 26th** <br>
+**2023 Local Skills Competition - Cyber Security 1st** <br>
+**2023 KOSPO CTF - Youth department 5th** <br> 
+**2023 Konyang CyberSecurity CTF - 2nd** 
 <br><br>
 
 ## Portfolio - BugBounty
-**Dreamhack Vulnerablity discovery (CVSS : 5.3 , Medium)**<br>
+**Dreamhack Vulnerablity discovery (CVSS : 5.3 , Medium)** <br>
 **Dreamhack Vulnerablity discovery (CVSS : 5.3 , Medium)**
 <br><br>
 
