@@ -6,7 +6,7 @@
 **2023 CodeGate Youth department Final** <br>
 **2023 Local Skills Competition - Cyber Security 1st** <br>
 **2023 KOSPO CTF - Youth department 5th** <br> 
-**2023 Konyang CyberSecurity CTF - 2nd** 
+**2023 Konyang CyberSecurity CTF - 2nd(Same score as 1st)** 
 <br><br>
 
 ## Portfolio - BugBounty
