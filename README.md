@@ -11,7 +11,8 @@
 
 ## Portfolio - BugBounty
 **Dreamhack Vulnerablity discovery (CVSS : 5.3 , Medium)** <br>
-**Dreamhack Vulnerablity discovery (CVSS : 5.3 , Medium)**
+**Dreamhack Vulnerablity discovery (CVSS : 5.3 , Medium)** <br>
+**Naver Self-XSS Vulnerablity discovery (Inability to influence others)**
 <br><br>
 
 ## Portfolio - Projects
