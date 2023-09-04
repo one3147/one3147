@@ -18,3 +18,7 @@
 ## Portfolio - Projects
 **2022.12 PHP Server Develop & Hacking** <br>
 **2023.07 SecureMarshmallow : Backend API Server Develop(Spring, Django) & Hacking & Secure Coding**
+<br><br>
+## Portfolio - Education
+**(2023.06 ~ now) Konyang University CyberSecurity Education** <br>
+**(2023.09 ~ now) KITRI BOB - WhiteHat School 1st Period** <br>
