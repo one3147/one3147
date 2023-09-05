@@ -1,6 +1,11 @@
 <div align="center">
 <img src="https://blog.kakaocdn.net/dn/cgkUIV/btqRqcabOMh/iSwGFjqyYk5pidLEb8K641/img.png" style="width:100px;height:100px;">
 
+## Introduce Me
+**Hello, I'am DSM's 2nd grade. I Studying Web Hacking & Offensive Security.**<br>
+**System Hacking : 2022.5 ~ 2022.10** <br>
+**Web Hacking : 2022.10 ~ now** <br>
+
 ## Portfolio - CTF & Contest
 **2023 CCE Finalist 7th** <br>
 **2023 CodeGate Youth department Final 19th** <br>
