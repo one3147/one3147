@@ -7,8 +7,8 @@
 **Web Hacking : 2022.10 ~ now** <br>
 
 ## Portfolio - CTF & Contest
-**2023 CCE Final 7th** <br>
-**2023 CodeGate Youth department Final 19th** <br>
+**2023 CCE Final** <br>
+**2023 CodeGate Youth department Final** <br>
 **2023 Local Skills Competition - Cyber Security 1st** <br>
 **2023 KOSPO CTF - Youth department 5th** <br> 
 **2023 Konyang CyberSecurity CTF - 2nd(Same score as 1st)** 
