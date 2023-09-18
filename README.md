@@ -5,8 +5,7 @@
 **Hello, I'am DSM's 2nd grade. I Studying Web Hacking & Offensive Security.**<br>
 **System Hacking : 2022.5 ~ 2022.10** <br>
 **Web Hacking : 2022.10 ~ now** <br>
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/ed96b67e-b3e4-438a-94c6-e2c710db8d42.svg)](https://wakatime.com/@ed96b67e-b3e4-438a-94c6-e2c710db8d42)
 
 ## Portfolio - CTF & Contest
 **2023 CCE Final** <br>
