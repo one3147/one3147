@@ -14,6 +14,8 @@
 **2023 KOSPO CTF - Youth department 5th** <br> 
 **2023 Konyang CyberSecurity CTF - 2nd(Same score as 1st)** <br>
 **2023 ELECCON CTF Final** <br>
+**2023 Information Security Competition 2region 1st**<br>
+**2023 JBU CTF Department Chair Award** <br>
 <br><br>
 
 ## Portfolio - BugBounty
