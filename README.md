@@ -31,6 +31,6 @@
 **2023.11 WhiteHatSchool BMW : Web3 Smart Contract WarGame Project** <br>
 <br><br>
 ## Portfolio - Education
-**(2023.06 ~ now) Konyang University CyberSecurity Education** <br>
+**(2023.06 ~ 2023.12) Konyang University CyberSecurity Education** <br>
 **(2023.09 ~ now) KITRI BOB - WhiteHat School 1st Period** <br>
 <br>
