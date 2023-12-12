@@ -33,4 +33,5 @@
 ## Portfolio - Education
 **(2023.06 ~ 2023.12) Konyang University CyberSecurity Education** <br>
 **(2023.09 ~ now) KITRI BOB - WhiteHat School 1st Period** <br>
+**(2023.10 ~ now) SSL - Security Researching Activity** <br>
 <br>
