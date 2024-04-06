@@ -34,5 +34,5 @@
 **(2023.06 ~ 2023.12) Konyang University CyberSecurity Education** <br>
 **(2023.09 ~ 2024.02) KITRI BOB - WhiteHat School 1st Period** <br>
 **(2023.10 ~ 2024.02) SSL - Security Researching Activity** <br>
-**(2024.04.06) H4C Conference Hacking Owls 6th** <br>
+**(2024.04.06) H4C Conference Hacking Owls 6th - PHP Tricks and RCE Technique in CTF** <br>
 <br>
