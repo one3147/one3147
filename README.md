@@ -1,27 +1,30 @@
 <div align="center">
 <img src="https://blog.kakaocdn.net/dn/cgkUIV/btqRqcabOMh/iSwGFjqyYk5pidLEb8K641/img.png" style="width:100px;height:100px;">
-
+  
+[![wakatime](https://wakatime.com/badge/user/ed96b67e-b3e4-438a-94c6-e2c710db8d42.svg)](https://wakatime.com/@ed96b67e-b3e4-438a-94c6-e2c710db8d42)
 ## Introduce Me
 **Hello, I'am DSM's 3rd grade. I Studying Web Hacking & Offensive Security.**<br>
-**System Hacking : 2022.5 ~ 2022.10** <br>
 **Web Hacking : 2022.10 ~ now** <br>
-[![wakatime](https://wakatime.com/badge/user/ed96b67e-b3e4-438a-94c6-e2c710db8d42.svg)](https://wakatime.com/@ed96b67e-b3e4-438a-94c6-e2c710db8d42)
+**Theori SA : 2024.8.16 ~ ...** <br>
+<a href="https://one3147.tistory.com/">**Blog**</a><br>
+<a href="https://dreamhack.io/users/33643">**Dreamhack**</a><br>
 
 ## Portfolio - CTF & Contest
-**2023 CCE Final** <br>
-**2023 CodeGate Youth department Final** <br>
+### 2023
+**2023 CCE Finalist** <br>
+**2023 CodeGate Youth department Finalist** <br>
 **2023 Local Skills Competition - Cyber Security 1st** <br>
-**2023 KOSPO CTF - Youth department 5th** <br> 
-**2023 Konyang CyberSecurity CTF - 2nd(Same score as 1st)** <br>
-**2023 ELECCON CTF Final** <br>
-**2023 Information Security Competition(Prequel) 2 region 1st**<br>
+**2023 ELECCON CTF Finalist** <br>
 **2023 JBU CTF Department Chair Award** <br>
-**2023 Information Security Competition Final 3rd place overall** <br>
+**2023 Information Security Competition Final 3rd place** <br>
+### 2024
+**2024 CCE Finalist(Preliminaries : 2nd)** <br>
+**2024 CodeGate Youth department Finalist** <br>
+**2024 DEFCON 32 Finalist(Team : Friendly Maltese Citizens)** <br>
 <br><br>
 
 ## Portfolio - BugBounty
-**Dreamhack Vulnerablity discovery (CVSS : 5.3 , Medium)** <br>
-**Dreamhack Vulnerablity discovery (CVSS : 5.3 , Medium)** <br>
+**Dreamhack Vulnerablity discovery -> 4++** <br>
 **Naver Self-XSS Vulnerablity discovery (Inability to influence others)**
 <br><br>
 
