@@ -18,7 +18,7 @@
 **2023 JBU CTF Department Chair Award** <br>
 **2023 Information Security Competition Final 3rd place** <br>
 ### 2024
-**2024 CCE Finalist(Preliminaries : 2nd)** <br>
+**2024 CCE Finalist(Preliminaries : 2nd / Final : 3rd)** <br>
 **2024 CodeGate Youth department Finalist** <br>
 **2024 DEFCON 32 Finalist(Team : Friendly Maltese Citizens)** <br>
 <br><br>
